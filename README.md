@@ -9,4 +9,4 @@ This solver requires ortools library.
 1. Install Python3 (https://www.python.org/downloads/)
 2. Install Pip (https://pip.pypa.io/en/stable/installation/)
 3. Install libraries : pip install -r requirements.txt
-4. Run the solver : python3 opt-1.py < input.gr
+4. Run the solver : python3 solution-1.py < input.gr
